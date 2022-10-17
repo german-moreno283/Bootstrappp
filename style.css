@@ -1,0 +1,18 @@
+.imagen{
+    width:70%;
+    border-radius: 7%;
+}
+body{
+    background-image: url("https://www.oceanographicmagazine.com/wp-content/uploads/2019/10/emperor-penguns-2.jpg");
+}
+.content{
+    background-color: rgb(213, 244, 255);
+    border-radius: 2%;
+}
+
+.textoPing{
+    font-size: large;
+    font-weight: bold;
+    font-family: Arial;
+    
+}
